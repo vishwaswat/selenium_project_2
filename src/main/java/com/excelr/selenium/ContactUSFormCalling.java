@@ -1,4 +1,4 @@
-package seleniumProject2;
+package com.excelr.selenium;
 
 import java.util.concurrent.TimeUnit;
 
